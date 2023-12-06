@@ -65,10 +65,6 @@ import {
   
   const technologies = [
     {
-      name: "C",
-      icon: c,
-    },
-    {
       name: "C++",
       icon: cplus,
     },
@@ -103,18 +99,6 @@ import {
     {
       name: "Tailwind CSS",
       icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "git",
-      icon: git,
     },
     {
       name: "figma",
