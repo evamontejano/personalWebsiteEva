@@ -65,22 +65,6 @@ import {
   
   const technologies = [
     {
-      name: "C#",
-      icon: csharp,
-    },
-    {
-      name: ".Net",
-      icon: net,
-    },
-    {
-      name: "Azure",
-      icon: azure,
-    },
-    {
-      name: "SQL",
-      icon: sql,
-    },
-    {
       name: "C",
       icon: c,
     },
@@ -136,7 +120,22 @@ import {
       name: "figma",
       icon: figma,
     },
-   
+    {
+      name: "C#",
+      icon: csharp,
+    },
+    {
+      name: ".Net",
+      icon: net,
+    },
+    {
+      name: "Azure",
+      icon: azure,
+    },
+    {
+      name: "SQL",
+      icon: sql,
+    },
   ];
   
   const experiences = [
