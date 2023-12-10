@@ -25,6 +25,7 @@ import {
     solftech,
     ibm,
     raycaster,
+    movie,
     itschool,
     techzone,
   } from "../assets";
@@ -179,6 +180,28 @@ import {
   
   
   const projects = [
+    {
+      name: "Movie Platform",
+      description:
+      "Crafted with Angular and TypeScript, this movie presentation platform delivers a dynamic and immersive experience within the realm of cinema.",
+      tags: [
+        {
+          name: "Angular",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Typescript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Bootstrap",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: movie,
+      source_code_link: "https://github.com/evamontejano/movieLounge.git",
+      deploy_link: "https://movie-lounge-nine.vercel.app/",
+    },
     {
       name: "Raycaster Game",
       description:

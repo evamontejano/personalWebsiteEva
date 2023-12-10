@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import deploy from "./tech/deploy.png"
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -30,6 +31,7 @@ import artbyte from "./company/artbyte.png";
 import solftech from "./company/solftech.png";
 import ibm from "./company/ibm.png";
 
+import movie from "./tech/movie.png"
 import raycaster from "./raycaster.png";
 import itschool from "./itschool.png";
 import techzone from "./techzone.png";
@@ -41,6 +43,7 @@ export {
   mobile,
   web,
   github,
+  deploy,
   menu,
   close,
   css,
@@ -65,6 +68,7 @@ export {
   solftech,
   ibm,
   raycaster,
+  movie,
   itschool,
   techzone,
 };
