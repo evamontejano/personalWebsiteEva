@@ -27,6 +27,7 @@ import {
     raycaster,
     movie,
     itschool,
+    weatherapp,
     techzone,
   } from "../assets";
   
@@ -129,7 +130,7 @@ import {
       company_name: "SOLF Tech IT Solutions",
       icon: solftech,
       iconBg: "#383E56",
-      date: "Aug 2023 - Present",
+      date: "Aug 2023 - Dec 2023",
       points: [
         "As a seasoned full-stack web developer , I navigated diverse projects encompassing the .NET framework, SQL, Svelte, Azure, Aurelia, and TypeScript.",
         "Working alongside a global team, I collaborated extensively to devise and implement optimal solutions for Emerson multinational corporation.",
@@ -235,6 +236,24 @@ import {
       ],
       image: itschool,
       source_code_link: "https://github.com/evamontejano/IT-School",
+    },
+    {
+      name: "Weather App",
+      description:
+      "Developed a modern weather application with an emphasis on smooth transitions and an intuitive user interface, enhancing user experience through dynamic, responsive design and real-time weather updates.",
+      tags: [
+        {
+          name: "JavaScript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "green-text-gradient",
+        },
+      ],
+      image: weatherapp,
+      source_code_link: "https://github.com/evamontejano/WeatherApp.git",
+      deploy_link: "https://weather-app-beta-eight-94.vercel.app/",
     },
     {
       name: "Site for IT products",

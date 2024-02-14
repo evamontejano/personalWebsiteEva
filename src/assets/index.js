@@ -34,6 +34,7 @@ import ibm from "./company/ibm.png";
 import movie from "./tech/movie.png"
 import raycaster from "./raycaster.png";
 import itschool from "./itschool.png";
+import weatherapp from "./tech/weather.png";
 import techzone from "./techzone.png";
 
 export {
@@ -70,5 +71,6 @@ export {
   raycaster,
   movie,
   itschool,
+  weatherapp,
   techzone,
 };
